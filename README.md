@@ -18,4 +18,4 @@
 
 后续展望：通过进一步开发漏洞 绕过MDM监管锁 绕过iCloud激活锁以及物主锁（不会公开 涉及违法风险 仅交流技术实现）
 
-感谢https://github.com/prdgmshift/usbliter8提供漏洞利用工具以及思路
+感谢https://github.com/prdgmshift/usbliter8 提供漏洞利用工具以及思路
