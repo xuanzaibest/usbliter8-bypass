@@ -1,4 +1,4 @@
-这个项目适用于A12/A13处理器 包括iPhone XR / XS / XSMAX / 11 / SE2 以及部分iPad A12 / A13 设备
+**这个项目适用于A12/A13处理器 包括iPhone XR / XS / XSMAX / 11 / SE2 以及部分iPad A12 / A13 设备**
 
 适用于A12/A13处理器的全部IOS版本
 
